@@ -1,2 +1,2 @@
-# pythondevelopment
+# CongoRise
 rock paper scissor
